@@ -1,0 +1,71 @@
+.nav-header a{
+ 
+    color: white;
+    font-weight: 700;
+    
+  }
+  .nav-header {
+    background-color: #1977cc;
+    backdrop-filter: blur(10px); 
+  }
+  .nav-link {
+    color: #ffffff !important; 
+    font-weight: bold; 
+  }
+  .nav-link:hover {
+    color: #cccccc !important; 
+  }
+  .container {
+    padding-top: 20px; 
+  }
+  
+  .navbar {
+    min-height: 80px;
+  }
+  
+  .navbar-toggler-icon {
+    color: #ffffff;
+  }
+  .btn-primary-login
+  {
+    color: white;
+    background-color: #000098;
+  }
+
+  .side-card{
+    padding: 30px;
+  }
+  .login-content{
+    text-align: justify;
+  }
+  .login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  .login-body {
+    background-image: url('https://bootstrapmade.com/demo/templates/Medilab/assets/img/hero-bg.jpg'); 
+
+    background-repeat: no-repeat;
+
+
+  }
+  .login-body-admin {
+    background-image: url(' https://bootstrapmade.com/demo/templates/Medilab/assets/img/hero-bg.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+  .login-body-admin-wd {
+    background-image: url(' https://bootstrapmade.com/demo/templates/Medilab/assets/img/hero-bg.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+
+ 
