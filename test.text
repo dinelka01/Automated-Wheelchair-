@@ -1,0 +1,8 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyDjHi4nce2s2nXMo4t0jKfZT2__g3B9ytA",
+    authDomain: "automediwheel.firebaseapp.com",
+    projectId: "automediwheel",
+    storageBucket: "automediwheel.appspot.com",
+    messagingSenderId: "220624559426",
+    appId: "1:220624559426:web:2d373ec65993588ba6fcdb"
+  };
